@@ -47,11 +47,4 @@ src/
 │   │   └── etc/
 │   │       ├── ddl/
 │   │       └── dummydata/
-
-                ├── common/
-                ├── counseling/
-                ├── emp/
-                ├── login/
-                ├── online/
-                └── program/
 ```
