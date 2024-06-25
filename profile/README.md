@@ -1,8 +1,8 @@
 # Unitalk Project
 
-<p align ="center"><img src="" width = 60%></p>
+<p align ="center"><img src="../123.png" width = 60%></p>
 
-- 프로젝트 설명이 들어갈 부분입니다.  
+- 상담관리 시스템 구축 프로젝트입니다.
 
 </br>
 
@@ -19,12 +19,18 @@
 ![CSS](https://img.shields.io/static/v1?style=for-the-badge&color=1572B6&message=CSS&logo=CSS3&logoColor=white&label=)
 ![JAVASCRIPT](https://img.shields.io/static/v1?style=for-the-badge&color=F7DF1E&message=JAVASCRIPT&logo=JavaScript&logoColor=white&label=)
 ![jQuery](https://img.shields.io/static/v1?style=for-the-badge&color=F7DF1E&message=jQuery&logo=jQuery&logoColor=white&label=)
-
+<img src="https://img.shields.io/badge/react.js-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
 
 ### ***BackEnd***
 ![Java](https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white)
-![jQuery](https://img.shields.io/static/v1?style=for-the-badge&color=F7DF1E&message=Oracle&logo=Oracle&logoColor=white&label=)
-등등.
+<img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
+<img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/aws-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+<img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+
+
+### ***VCS***
+<img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"/>
 
 </br>
 
