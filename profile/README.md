@@ -1,6 +1,6 @@
 # Unitalk Project
 
-<p align ="center"><img src="https://github.com/sksrpf1126/study/assets/62879192/fcfe5fec-3bb2-47c8-8215-2c45352d0b73" width = 60%></p>
+<p align ="center"><img src="" width = 60%></p>
 
 - 프로젝트 설명이 들어갈 부분입니다.  
 
