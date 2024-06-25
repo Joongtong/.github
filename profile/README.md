@@ -47,12 +47,7 @@ src/
 │   │   └── etc/
 │   │       ├── ddl/
 │   │       └── dummydata/
-│   ├── application.properties
-│   └── application.yml
-└── test/
-    └── java/
-        └── com/
-            └── unitalk/
+
                 ├── common/
                 ├── counseling/
                 ├── emp/
