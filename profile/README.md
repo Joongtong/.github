@@ -18,7 +18,6 @@
 ![HTML5](https://img.shields.io/static/v1?style=for-the-badge&color=E34F26&message=HTML5&logo=HTML5&logoColor=white&label=)
 ![CSS](https://img.shields.io/static/v1?style=for-the-badge&color=1572B6&message=CSS&logo=CSS3&logoColor=white&label=)
 ![JAVASCRIPT](https://img.shields.io/static/v1?style=for-the-badge&color=F7DF1E&message=JAVASCRIPT&logo=JavaScript&logoColor=white&label=)
-![jQuery](https://img.shields.io/static/v1?style=for-the-badge&color=F7DF1E&message=jQuery&logo=jQuery&logoColor=white&label=)
 <img src="https://img.shields.io/badge/react.js-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
 
 ### ***BackEnd***
@@ -27,7 +26,6 @@
 <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 <img src="https://img.shields.io/badge/aws-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
 <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-
 
 ### ***VCS***
 <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"/>
@@ -40,7 +38,7 @@
 </br>
 </br>
 
-## 구성원(이름순)
+## 구성원
 
 <table>
 	<tbody>
@@ -60,8 +58,7 @@
 			<th><img width="150px" src="https://github.com/JinyDev95.png" alt="최원진"/></th>
 		</tr>
 		<tr>
-			<th><a href="https://github.com/Jamie-Nestor90" target="_blank" style="color: black; text-decoration: none;">유재명</a>
-</th>
+			<th><a href="https://github.com/Jamie-Nestor90" target="_blank">유재명</a></th>
 			<th><a href="https://github.com/RbCream" target="_blank">김헌종</a></th>
 			<th><a href="https://github.com/JinyDev95" target="_blank">최원진</a></th>
 		</tr>
