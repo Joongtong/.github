@@ -37,7 +37,8 @@
 ## 개발기간
 - 2024.06.14 ~ 2024.07.12 (기간 내 완료 목표)
 
-  
+</br>
+</br>
 
 ## 구성원(이름순)
 
@@ -59,7 +60,8 @@
 			<th><img width="150px" src="https://github.com/JinyDev95.png" alt="최원진"/></th>
 		</tr>
 		<tr>
-			<th><a href="https://github.com/Jamie-Nestor90" target="_blank">유재명</a></th>
+			<th><a href="https://github.com/Jamie-Nestor90" target="_blank" style="color: black; text-decoration: none;">유재명</a>
+</th>
 			<th><a href="https://github.com/RbCream" target="_blank">김헌종</a></th>
 			<th><a href="https://github.com/JinyDev95" target="_blank">최원진</a></th>
 		</tr>
