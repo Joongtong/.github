@@ -1,6 +1,6 @@
 # Unitalk Project
 
-<p align ="center"><img src="../123.png" width = 60%></p>
+<p align ="center"><img src="../662f9b48185c06bb.png" width = 60%></p>
 
 - 상담관리 시스템 구축 프로젝트입니다.
 
