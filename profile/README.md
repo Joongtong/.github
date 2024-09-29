@@ -43,24 +43,24 @@
 <table>
 	<tbody>
 		<tr>
-			<th><img width="150px" src="https://github.com/HeegeneChae.png" alt="채희진"/></th>
-			<th><img width="150px" src="https://github.com/star-kw.png" alt="곽별"/></th>
-			<th><img width="150px" src="https://github.com/Ramambo.png" alt="최문영"/></th>
+			<th><img width="150px" src="https://github.com/HeegeneChae.png" alt="HeegeneChae"/></th>
+			<th><img width="150px" src="https://github.com/star-kw.png" alt="star-kw"/></th>
+			<th><img width="150px" src="https://github.com/Ramambo.png" alt="Ramambo"/></th>
 		</tr>
 		<tr>
-			<th><a href="https://github.com/HeegeneChae" target="_blank">채희진</a></th>
-			<th><a href="https://github.com/star-kw" target="_blank">곽별</a></th>
-			<th><a href="https://github.com/Ramambo" target="_blank">최문영</a></th>
+			<th><a href="https://github.com/HeegeneChae" target="_blank">HeegeneChae</a></th>
+			<th><a href="https://github.com/star-kw" target="_blank">star-kw</a></th>
+			<th><a href="https://github.com/Ramambo" target="_blank">Ramambo</a></th>
 		</tr>
 		<tr>
-			<th><img width="150px" src="https://github.com/Jamie-Nestor90.png" alt="유재명"/></th>
-			<th><img width="150px" src="https://github.com/RbCream.png" alt="김헌종"/></th>
-			<th><img width="150px" src="https://github.com/JinyDev95.png" alt="최원진"/></th>
+			<th><img width="150px" src="https://github.com/Jamie-Nestor90.png" alt="Jamie"/></th>
+			<th><img width="150px" src="https://github.com/RbCream.png" alt="RbCream.png"/></th>
+			<th><img width="150px" src="https://github.com/JinyDev95.png" alt="JinyDev95"/></th>
 		</tr>
 		<tr>
-			<th><a href="https://github.com/Jamie-Nestor90" target="_blank">유재명</a></th>
-			<th><a href="https://github.com/RbCream" target="_blank">김헌종</a></th>
-			<th><a href="https://github.com/JinyDev95" target="_blank">최원진</a></th>
+			<th><a href="https://github.com/Jamie-Nestor90" target="_blank">Jamie</a></th>
+			<th><a href="https://github.com/RbCream" target="_blank">RbCream</a></th>
+			<th><a href="https://github.com/JinyDev95" target="_blank">JinyDev95</a></th>
 		</tr>
 	</tbody>
 </table>
